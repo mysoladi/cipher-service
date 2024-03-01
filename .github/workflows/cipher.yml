@@ -30,4 +30,8 @@ jobs:
       run: |
         docker login --username mysoladi --password ${{secrets.ACCESS_TOKEN}} ghcr.io
         docker build -t ghcr.io/mysoladi/cipher-service:latest --file Dockerfile .
+<<<<<<< HEAD
         docker push ghcr.io/mysoladi/cipher-service:latest
+=======
+        docker push ghcr.io/mysoladi/cipher-service:latest
+>>>>>>> 32bbfa3111b535e35c56f4ffa0f70b1d5e0fe7a9
