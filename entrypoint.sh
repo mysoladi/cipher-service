@@ -1,3 +1,5 @@
+#!/bin/ash
+
 echo "Apply migrations"
 
 cd ./ciphers_project
