@@ -126,4 +126,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CORS_ALLOWED_ORIGINS = ["https://mysoladi.github.io/arithmetic-service-front/", "https://localhost:3000"]
+CORS_ALLOWED_ORIGINS = ["https://mysoladi.github.io", "https://localhost:3000"]
