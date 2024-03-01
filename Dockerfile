@@ -1,6 +1,6 @@
 FROM python:3.11.6-alpine
 
-WORKDIR /home/application
+WORKDIR Users/mysol/Desktop/cipher-service/
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
