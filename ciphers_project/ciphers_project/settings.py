@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*vjqw@ps_jr6@#1e#6me#h%j886kny3m_we+n5=lk05&i=e-(0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '0.0.0.0', 'ciphers-service-wktz.onrender.com']
+ALLOWED_HOSTS = ['localhost', '0.0.0.0', 'https://edunexa.onrender.com']
 
 
 # Application definition
